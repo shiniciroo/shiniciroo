@@ -5,7 +5,7 @@
 
   <h2>Shiniciro</h2>
 
-  <p>Shiniciroへようこそ！👋🏻</p>
+  <p>𝖲𝗁𝗂𝗇𝗂𝖼𝗂𝗋𝗈へようこそ！👋🏻</p>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="80%">
 
